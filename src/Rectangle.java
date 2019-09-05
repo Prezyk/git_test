@@ -1,6 +1,6 @@
 public class Rectangle {
-    public int a;
-    public int b;
+    private int a;
+    private int b;
 
     public int getA() {
         return a;
